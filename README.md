@@ -1,2 +1,1 @@
-# rsschool-cv
-CV task for RSSchool stage#1
+https://TheWatermalonBird.github.io/rsschool-cv/cv
