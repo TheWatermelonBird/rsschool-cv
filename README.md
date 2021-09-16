@@ -1,1 +1,0 @@
-https://TheWatermalonBird.github.io/rsschool-cv/cv
