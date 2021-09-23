@@ -1,13 +1,12 @@
 # Hanna Aniskevich
-## a.k.a TheWatermelonBird
+a.k.a **TheWatermelonBird**
 *Hrodna, Belarus*
 
 ## Contacts:
 Telegram: @WatermelonBird\
 E-mail: northernwind@tut.by\
-Mobile: +375292723312\
+Mobile: +375292723312
 
----
 ## About Me:
 
 An inquisitive mind with a passion for all things IT, Software and Technology; fast to learn and eager to develop skills and qualifications needed to successfully and effectively perform job duties, keen on creating fast, efficient and elegant technological solutions.
@@ -33,7 +32,7 @@ function highAndLow(numbers) {
 }
 ```
 
-# Experience
+## Experience
 ### Jobs
 - GamingSense, **UX Designer** 
   - (June 2021 — September 2021)
@@ -48,25 +47,25 @@ function highAndLow(numbers) {
 
 ### Education & Accomplishments
 #### Courses:
-RSSchool JS / FRONT-END course (in progress)
-DeepLearning school (in progress)
-FreeCodeCamp
+- RSSchool JS / FRONT-END course (in progress)
+- DeepLearning school (in progress)
+- FreeCodeCamp
 
 #### College:
-Belarusian State University of Informatics and Radioelectronics:
-    Information Systems and Technologies (in the gaming industry), 2018-2019
-    Computer Science and Programming Technologies, 2017-2018
-Belarusian State University:
-    Modern Foreign Languages (Translation), 2016-2017
+- Belarusian State University of Informatics and Radioelectronics:
+  - Information Systems and Technologies (in the gaming industry), 2018-2019
+  - Computer Science and Programming Technologies, 2017-2018
+- Belarusian State University:
+  - Modern Foreign Languages (Translation), 2016-2017
 
 #### Certifications:
-Wargaming Forge Game Design
+- Wargaming Forge Game Design
 
 #### Accomplishments:
-Graduated High School with "Outstanding academic success" medal
-Republican Subject Olympiad Diploma in English '16 
-Republican Subject Olympiad Diploma in English '15
-Youth Leadership Program 2015 (USA: Chicago, IL; Colorado Springs CO; Washington, D.C.)
+- Graduated High School with "Outstanding academic success" medal
+- Republican Subject Olympiad Diploma in English '16 
+- Republican Subject Olympiad Diploma in English '15
+- Youth Leadership Program 2015 (USA: Chicago, IL; Colorado Springs CO; Washington, D.C.)
 
 ### Languages
 Language | Level
