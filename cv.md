@@ -26,12 +26,44 @@ I have a substantial work experience in User Experience Design.
 
 ## Code sample
 Codewars task:
-`
+```js
 function highAndLow(numbers) {
   const arrayNums = numbers.split(' ');
   arrayNums.sort((a, b) => a - b);
   return arrayNums[arrayNums.length - 1] + ' ' + arrayNums[0];
-}`
+}
+```
+
+# Experience
+### Jobs
+- GamingSense, **UX Designer** 
+  - (June 2021 — September 2021)
+- Wargaming, **UI/UX Designer** [MS-1 studio, new mobile project] 
+  - (September 2020 — May 2021)
+- Wargaming, **Game Designer Intern** [WoT team] 
+  - (April 2020 — July 2020)
+
+### Projects
+ - Belarusian Black Metal community Website *(in deployment)*
+ - German metal bands map *(in progress)*
+
+### Education & Accomplishments
+#### Courses:
+RSSchool JS / FRONT-END (in progress)
+DeepLearning school (in progress)
+FreeCodeCamp
+
+#### Certifiactions:
+Wargaming Forge Game Design
+
+#### Accomplishments:
+Graduated High School with "Outstanding academic success" medal
+Republican Subject Olympiad Diploma in English '16 
+Republican Subject Olympiad Diploma in English '15
+Youth Leadership Program 2015 (USA: Chicago, IL; Colorado Springs CO; Washington, D.C.)
+
+### Languages
+
 
 ...Опыт работы. Junior Dev может указать пройденные курсы и тренинги, перечислить учебные проекты, или проекты, выполненные на фрилансе с указанием использованных навыков и ссылками на исходный код.
 ...Образование (включая курсы, семинары, лекции, онлайн-обучение)
