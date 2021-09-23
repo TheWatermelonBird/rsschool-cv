@@ -3,15 +3,14 @@
 *Hrodna, Belarus*
 
 ## Contacts:
-Telegram: @WatermelonBird
-E-mail: northernwind@tut.by
-Mobile: +375292723312
+Telegram: @WatermelonBird\
+E-mail: northernwind@tut.by\
+Mobile: +375292723312\
 
 ---
 ## About Me:
 
 An inquisitive mind with a passion for all things IT, Software and Technology; fast to learn and eager to develop skills and qualifications needed to successfully and effectively perform job duties, keen on creating fast, efficient and elegant technological solutions.
-I have a substantial work experience in User Experience Design. 
 
 ## Skills:
 - HTML5
@@ -49,11 +48,18 @@ function highAndLow(numbers) {
 
 ### Education & Accomplishments
 #### Courses:
-RSSchool JS / FRONT-END (in progress)
+RSSchool JS / FRONT-END course (in progress)
 DeepLearning school (in progress)
 FreeCodeCamp
 
-#### Certifiactions:
+#### College:
+Belarusian State University of Informatics and Radioelectronics:
+    Information Systems and Technologies (in the gaming industry), 2018-2019
+    Computer Science and Programming Technologies, 2017-2018
+Belarusian State University:
+    Modern Foreign Languages (Translation), 2016-2017
+
+#### Certifications:
 Wargaming Forge Game Design
 
 #### Accomplishments:
@@ -63,8 +69,10 @@ Republican Subject Olympiad Diploma in English '15
 Youth Leadership Program 2015 (USA: Chicago, IL; Colorado Springs CO; Washington, D.C.)
 
 ### Languages
-
-
-...Опыт работы. Junior Dev может указать пройденные курсы и тренинги, перечислить учебные проекты, или проекты, выполненные на фрилансе с указанием использованных навыков и ссылками на исходный код.
-...Образование (включая курсы, семинары, лекции, онлайн-обучение)
-...Английский язык (уровень английского языка, если была языковая практика, расскажите о ней)
+Language | Level
+-------- | -----
+Russian | Native
+Belarusian | Native
+English | C1
+Polish | B1
+Swedish | A2
