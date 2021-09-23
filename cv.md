@@ -1,5 +1,5 @@
 # Hanna Aniskevich
-a.k.a **TheWatermelonBird**\
+a.k.a **TheWatermelonBird**
 ## Contacts:
 *Hrodna, Belarus*
 Telegram: @WatermelonBird\
