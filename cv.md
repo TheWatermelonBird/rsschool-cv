@@ -1,7 +1,7 @@
 # Hanna Aniskevich
 a.k.a **TheWatermelonBird**
 ## Contacts:
-*Hrodna, Belarus*
+*Hrodna, Belarus*\
 Telegram: @WatermelonBird\
 E-mail: northernwind@tut.by\
 Mobile: +375292723312
@@ -33,9 +33,9 @@ function highAndLow(numbers) {
 
 ## Experience
 ### Jobs
-- GamingSense, **UX Designer** 
+- GamingSense, **UX Designer** [mobile project]
   - (June 2021 — September 2021)
-- Wargaming, **UI/UX Designer** [MS-1 studio, new mobile project] 
+- Wargaming, **UI/UX Designer** [MS-1 studio, new mobile project, English-speaking team] 
   - (September 2020 — May 2021)
 - Wargaming, **Game Designer Intern** [WoT team] 
   - (April 2020 — July 2020)
@@ -67,10 +67,8 @@ function highAndLow(numbers) {
 - Youth Leadership Program 2015 (USA: Chicago, IL; Colorado Springs CO; Washington, D.C.)
 
 ### Languages
-Language | Level\
--------- | -----\
-Russian | Native\
-Belarusian | Native\
-English | C1\
-Polish | B1\
-Swedish | A2
+Russian — Native
+Belarusian — Native
+English — C1
+Polish — B1
+Swedish — A2
