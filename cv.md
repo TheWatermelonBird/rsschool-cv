@@ -1,8 +1,7 @@
 # Hanna Aniskevich
 a.k.a **TheWatermelonBird**\
-*Hrodna, Belarus*
-
 ## Contacts:
+*Hrodna, Belarus*
 Telegram: @WatermelonBird\
 E-mail: northernwind@tut.by\
 Mobile: +375292723312
@@ -68,10 +67,10 @@ function highAndLow(numbers) {
 - Youth Leadership Program 2015 (USA: Chicago, IL; Colorado Springs CO; Washington, D.C.)
 
 ### Languages
-Language | Level
--------- | -----
-Russian | Native
-Belarusian | Native
-English | C1
-Polish | B1
+Language | Level\
+-------- | -----\
+Russian | Native\
+Belarusian | Native\
+English | C1\
+Polish | B1\
 Swedish | A2
