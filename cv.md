@@ -67,8 +67,8 @@ function highAndLow(numbers) {
 - Youth Leadership Program 2015 (USA: Chicago, IL; Colorado Springs CO; Washington, D.C.)
 
 ### Languages
-Russian — Native
-Belarusian — Native
-English — C1
-Polish — B1
+Russian — Native\
+Belarusian — Native\
+English — C1\
+Polish — B1\
 Swedish — A2
